@@ -1,7 +1,5 @@
 # Projeto de Página Web Simples em HTML
 
-###Este é um projeto básico de um site de uma instituição de ensino, desenvolvido inteiramente em HTML puro, sem o uso de frameworks ou bibliotecas externas.
-
 
 
 
